@@ -1,0 +1,19 @@
+{
+  "name": "gestion-actividades",
+  "version": "1.0.0",
+  "description": "API para gestión de actividades académicas",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "mongoose": "^7.6.1",  
+    "serverless-http": "^3.0.2",
+    "dotenv": "^16.3.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
