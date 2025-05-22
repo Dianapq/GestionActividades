@@ -1,4 +1,4 @@
-const User = require('../models/User');
+const User = require('../models/user');
 
 //Controlador para obtener el plan de un usuario en especifico 
 exports.getUserPlan = async (req, res) => {
